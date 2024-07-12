@@ -17,6 +17,7 @@ google-auth-oauthlib = "^1.2.1"
 google-auth-httplib2 = "^0.2.0"
 beautifulsoup4 = "^4.12.3"
 langchain-community = "^0.2.7"
+pandas = "^2.2.2"
 
 
 [build-system]

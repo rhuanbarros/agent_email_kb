@@ -1,0 +1,810 @@
+,id,threadId,snippet,body,subject,sender
+0,190a83c5a773fa26,190a83c5a773fa26,Informações Adicionadas para o Chamado Informações foram adicionadas pelo usuário para o chamado R240425. Verifique estas novas informações e prossiga o atendimento. Nº do chamado: R240425 Data e hora,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+Informações Adicionadas para o Chamado
+
+
+                                                            Informações foram adicionadas pelo usuário para o chamado R240425. Verifique estas novas informações e prossiga o atendimento.
+
+
+                                                            Nº do chamado: R240425 
+
+                                                            Data e hora de registro : 12/07/2024 13:40:11
+
+															Serviço: IMPRESSÃO 
+
+
+                                                                Descrição das informações adicionadas: 
+
+                                                                
+
+                                                                    Tentei imprimir conforme solicitado e não foi possível. Não sei se tem alguma relevância, mas ao invés de MULTI1, aparece apenas MULTI no endereço dela.
+
+
+
+Esta é uma mensagem automática. Por favor, não responda.
+
+
+
+                                                            Atenciosamente,
+
+                                                            
+
+                                                            SETIC - Central de Atendimento
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+",Informa����es adicionadas pelo usu��rio no chamado (ref.R240425),SETIC - Central de Atendimento <nao-responder@trt4.jus.br>
+1,190a7fc05f93d70c,190a7fc05f93d70c,Prezados encaminho para conhecimento e caso necessitar durante minha ausência algo sobre a Nova versão do Pje Portable Executáveis do Pje Portable https://drive.google.com/drive/folders/1hm-,"Prezados encaminho para conhecimento e caso necessitar durante minha
+ausência algo sobre a Nova versão do Pje Portable
+
+Executáveis do Pje Portable
+
+https://drive.google.com/drive/folders/1hm-SixXryuPo7pQK5hCU0S-hOAVuZG60
+
+A documentação (ainda parcial):
+
+https://docs.google.com/document/d/1eTkuMv8IBqdlcbRgl6m84PtaEuH37AVdC97Myj-2d8Q/edit
+
+
+-- 
+Respeitosamente,
+______________________________________________
+Paulo Ricardo Ritter - pritter@trt4.jus.br
+Divisão de Microinformática
+Secretaria de Tecnologia da Informação e Comunicações
+Tribunal Regional do Trabalho da 4ª Região
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+",=?UTF-8?Q?Nova_vers=C3=A3o_do_Pje_Portable_1=2E14=2E0?=,Paulo Ricardo Ritter <pritter@trt4.jus.br>
+2,190a7f89d84393e2,190a7f89d84393e2,"Paulo Ricardo Ritter compartilhou um documento Paulo Ricardo Ritter (pritter@trt4.jus.br) convidou você para comentar o seguinte documento: Novo PJe Portable e PJeOffice Pro Abrir Google LLC, 1600","Compartilhei um item com você:
+
+Novo PJe Portable e PJeOffice Pro
+https://docs.google.com/document/d/1eTkuMv8IBqdlcbRgl6m84PtaEuH37AVdC97Myj-2d8Q/edit?usp=sharing&ts=6691668c
+
+Não é um anexo; está armazenado on-line. Para abrir este item, basta clicar  
+no link acima.
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","=?UTF-8?Q?Documento_compartilhado_com_voc=C3=AA=3A_=22Novo_PJe_Portabl?=
+	=?UTF-8?Q?e_e_PJeOffice_Pro=22?=","""Paulo Ricardo Ritter (via Documentos Google)"" <pritter@trt4.jus.br>"
+3,190a6f57c81b0383,190a6f57c81b0383,"Prezados, Alguns setores solicitaram para a SETIC a automatização de listas de email. Existe no markvision uma tarefa agendada chamado &quot;Atualizar Listas Automáticas GAM&quot; que todos os dias faz","Prezados,
+Alguns setores solicitaram para a SETIC a automatização de listas de email.
+Existe no markvision uma tarefa agendada chamado ""Atualizar Listas Automáticas GAM"" que todos os dias faz esse trabalho.
+Porém, na execução do dia 12-07-2024 ocorreram diferenças entre a quantidade total de emails vindo SIGEP e os que foram importados nas listas da Google.
+Seguem as listas que apresentaram problema na execução:===========================================================================
+===========================================================================
+Nome da lista: segesp.servidoresaposentados-lista
+Total de emails do Sigep: 1545
+Total de emails importados na lista da Google: 1544
+-----------------------------------------------------------------------
+Total de emails não importados: 1
+Analisar o log abaixo para avaliar o motivo da falha na importação.
+ Group: segesp.servidoresaposentados-lista@trt4.jus.br, cmomback1350@gmail.com Add as MEMBER Failed: Resource Not Found: cmomback1350@gmail.com
+ Group: segesp.servidoresaposentados-lista@trt4.jus.br, ana.borgerth@gmail.com Added as MEMBER
+ Group: segesp.servidoresaposentados-lista@trt4.jus.br, cesarvieira@gmail.com Added as MEMBER
+===========================================================================
+===========================================================================
+Nome da lista: unidades.predio.sede-lista
+Total de emails do Sigep: 113
+Total de emails importados na lista da Google: 104
+-----------------------------------------------------------------------
+Total de emails não importados: 9
+Analisar o log abaixo para avaliar o motivo da falha na importação.
+ Group: unidades.predio.sede-lista@trt4.jus.br, n?o tem@trt4.jus.br Add as MEMBER Failed: Invalid Input: memberKey
+ Group: unidades.predio.sede-lista@trt4.jus.br, segge@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MEMBER
+===========================================================================
+===========================================================================
+Nome da lista: unidades.predio.anexo-lista
+Total de emails do Sigep: 84
+Total de emails importados na lista da Google: 72
+-----------------------------------------------------------------------
+Total de emails não importados: 12
+Analisar o log abaixo para avaliar o motivo da falha na importação.
+ Group: unidades.predio.anexo-lista@trt4.jus.br, dg@trt4.jus.br Add as MEMBER Failed: Duplicate, already a OWNER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, sa@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, seguranca@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, secof@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, dg@trt4.jus.br Add as MEMBER Failed: Duplicate, already a OWNER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, gestaodepessoas@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, sustentabilidade@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, secof@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, sa@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, secserv@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+ Group: unidades.predio.anexo-lista@trt4.jus.br, sempro@trt4.jus.br Add as MEMBER Failed: Duplicate, already a MANAGER
+===========================================================================
+===========================================================================
+Nome da lista: unidades.foro.poa-lista
+Total de emails do Sigep: 52
+Total de emails importados na lista da Google: 48
+-----------------------------------------------------------------------
+Total de emails não importados: 4
+Analisar o log abaixo para avaliar o motivo da falha na importação.
+ Group: unidades.foro.poa-lista@trt4.jus.br, SAUDE@TRT4.JUS.BR Add as MEMBER Failed: Duplicate, already a MANAGER
+ Respeitosamente,
+ GAM
+
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","Execucao da Tarefa de Atualizacao das Listas GAM - Listas de emails
+ do tribunal incompletas",GAM-Markvision-Nao-Responder@trt4.jus.br
+4,190a3c28df716706,190a3c28df716706,"Prezado Sr. Luiz, boa noite. Acusamos o recebimento de sua solicitação, tendo sido gerado o protocolo de atendimento 1797. Nossos analistas já estão verificando a solicitação e em breve retornarão com","Prezado Sr. Luiz, boa noite.
+
+Acusamos o recebimento de sua solicitação, tendo sido gerado o protocolo de atendimento 1797.
+
+Nossos analistas já estão verificando a solicitação e em breve retornarão com maiores informações.
+
+Atenciosamente,
+
+[Uma imagem contendo Logotipo  Descrição gerada automaticamente]
+[Texto, Email  Descrição gerada automaticamente]
+Technical Support
+
+0800 941 2180
++55 61 3247-2000
+suporte@xpon.com.br
+[cid:image003.png@01DAD3C2.88251A20] [cid:image004.png@01DAD3C2.88251A20]   [cid:image005.png@01DAD3C2.88251A20] 
+
+As informações contidas nesta mensagem e no(s) arquivo(s) anexo(s) são confidenciais e de propriedades da XP On e de uso exclusivamente à(s) pessoa(s) e/ou instituição(ões) acima indicada(s) e podem conter informações confidenciais e/ou privilegiadas. Se você não for o destinatário ou pessoa autorizada a recebê-la, queira, por favor retorná-la ao remetente e em seguida apagá-la definitivamente. Qualquer uso, cópia ou divulgação das informações nela contidas, na íntegra ou parcialmente, são proibidas e serão tratadas conforme legislação vigente.
+
+De: Luiz Antonio Marques Garcia 
+Enviada em: quinta-feira, 11 de julho de 2024 16:41
+Para: XP On | Suporte Técnico 
+Cc: SETIC-DIM- Divisao de Microinformatica 
+Assunto: [Severidade: Dúvida] Participante não apareceu no relatório da sala de espera
+
+Caros da XPON:
+
+REUNIÃO:
+ID Reunião: 8185388806
+Data/Hora Início: 10/10/2023 01:07:27 pm
+E-Mail Anfitrião: varacax03js@trt4.jus.br
+
+PROBLEMA:
+O participante Ricardo Pasqual (ricardo.pasqual@gmail.com) informa , conforme print abaixo enviado por ele, que estava na sala de espera da reunião supracitada.
+No entanto, o anfitrião da reunião não confirma o participante na sala de espera e o relatório da reunião (em anexo) também não informa a existência do participante na sala de espera.
+
+1) Como verificar se o usuário esteve ou não na sala de espera além do relatório em anexo?
+2) Houve problemas técnicos no Zoom, na data e hora informada, que podem ter ocasionado a não comunicação do participante na sala de espera ?
+
+[cid:image006.jpg@01DAD3C2.88251A20]
+
+
+Atenciosamente,
+
+Luiz Antônio M. Garcia
+Tribunal Regional do Trabalho da 4ª Região
+SETIC - Divisão de Microinformática
+luiz.garcia@trt4.jus.br
+INC-1582
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","=?utf-8?B?U3Vwb3J0ZSBUUlQ0IC0gU29saWNpdGHDp8OjbyAxNzk3IC0gW1NldmVyaWRh?=
+ =?utf-8?B?ZGU6IETDunZpZGFdIFBhcnRpY2lwYW50ZSBuw6NvIGFwYXJlY2V1IG5vIHJl?=
+ =?utf-8?B?bGF0w7NyaW8gZGEgc2FsYSBkZSBlc3BlcmE=?=",=?utf-8?B?WFAgT24gfCBTdXBvcnRlIFTDqWNuaWNv?= <suporte@xpon.com.br>
+5,190a364c73e61021,190a254584241b3b,"Seja bem vindo, Tiago! Em qui., 11 de jul. de 2024 às 14:24, Paulo Ricardo Ritter &lt;pritter@trt4.jus.br&gt; escreveu: Seja bem-vindo! Tiago. Em qui., 11 de jul. de 2024 às 13:47, Leandro da Silva","Seja bem vindo, Tiago!
+
+Em qui., 11 de jul. de 2024 às 14:24, Paulo Ricardo Ritter <
+pritter@trt4.jus.br> escreveu:
+
+> Seja bem-vindo! Tiago.
+>
+> Em qui., 11 de jul. de 2024 às 13:47, Leandro da Silva Peracchi <
+> leandro.peracchi@trt4.jus.br> escreveu:
+>
+>> Boa tarde!
+>>
+>>   Seja bem-vindo, Tiago! 😁
+>>
+>> Em qui., 11 de jul. de 2024 às 13:44, Tiago Avellar Fernandes <
+>> tiago.avellar@trt4.jus.br> escreveu:
+>>
+>>> Obrigado a todos pela recepção, espero que eu possa contribuir com a
+>>> equipe.
+>>>
+>>> Em qui., 11 de jul. de 2024 às 12:05, Ana Lucia Moreira <
+>>> ana.moreira@trt4.jus.br> escreveu:
+>>>
+>>>> Bom dia, DIM!
+>>>> Tenho uma excelente notícia para compartilhar com vocês: recebemos um
+>>>> colega novo para trabalhar conosco! 🥳  É o Tiago que está em cópia aqui, e
+>>>> em breve poderão conhecer na nossa reunião de amanhã! ☺️
+>>>> Tiago, seja bem-vindo à nossa equipe! Desejo que seja um ciclo de
+>>>> muitas alegrias e novas experiências para você! Estou muito feliz em te
+>>>> receber na equipe!
+>>>> Abraço!
+>>>> ______________________________________________
+>>>> *Ana Lúcia Moreira* - ana.moreira@trt4.jus.br
+>>>> Divisão de Microinformática
+>>>> Secretaria de Tecnologia da Informação e Comunicações
+>>>> Tribunal Regional do Trabalho da 4ª Região
+>>>>
+>>>>
+>>>> --
+>>> You received this message because you are subscribed to the Google
+>>> Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+>>> To unsubscribe from this group and stop receiving emails from it, send
+>>> an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+>>>
+>>
+>>
+>> --
+>> Atenciosamente,
+>>
+>>   *Leandro da Silva Peracchi*
+>>   Secretaria de Tecnologia da Informação e Comunicações - SETIC
+>>   Tribunal Regional do Trabalho da 4ª Região
+>>
+>> --
+>> You received this message because you are subscribed to the Google Groups
+>> ""SETIC-DIM- Divisao de Microinformatica"" group.
+>> To unsubscribe from this group and stop receiving emails from it, send an
+>> email to setic.dim-lista+unsubscribe@trt4.jus.br.
+>>
+>
+>
+> --
+> Respeitosamente,
+> ______________________________________________
+> Paulo Ricardo Ritter - pritter@trt4.jus.br
+> Divisão de Microinformática
+> Secretaria de Tecnologia da Informação e Comunicações
+> Tribunal Regional do Trabalho da 4ª Região
+>
+> --
+> You received this message because you are subscribed to the Google Groups
+> ""SETIC-DIM- Divisao de Microinformatica"" group.
+> To unsubscribe from this group and stop receiving emails from it, send an
+> email to setic.dim-lista+unsubscribe@trt4.jus.br.
+>
+
+
+-- 
+*Éder Almeida Costa*
+SM - Seção de Microinformática
+Secretaria de Tecnologia da Informação e Comunicações - SETIC
+TRT4 - Secretaria de Tecnologia da Informação e Comunicações
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+",Re: NOVIDADES!!!!!!,Eder Almeida Costa <eder.costa@trt4.jus.br>
+6,190a3501183d526d,190a3501183d526d,Caros da XPON: REUNIÃO: ID Reunião: 8185388806 Data/Hora Início: 10/10/2023 01:07:27 pm E-Mail Anfitrião: varacax03js@trt4.jus.br PROBLEMA: O participante Ricardo Pasqual (ricardo.pasqual@gmail.com),"Caros da XPON:
+
+*REUNIÃO:*
+ID Reunião: 8185388806
+Data/Hora Início: 10/10/2023 01:07:27 pm
+E-Mail Anfitrião: varacax03js@trt4.jus.br
+
+*PROBLEMA: *
+O participante Ricardo Pasqual (ricardo.pasqual@gmail.com) informa ,
+conforme print abaixo enviado por ele, que estava na sala de espera da
+reunião supracitada.
+No entanto, o anfitrião da reunião não confirma o participante na sala de
+espera e o relatório da reunião (em anexo) também não informa a existência
+do participante na sala de espera.
+
+1) Como verificar se o usuário esteve ou não na sala de espera além do
+relatório em anexo?
+2) Houve problemas técnicos no Zoom, na data e hora informada, que podem
+ter ocasionado a não comunicação do participante na sala de espera ?
+
+[image: Na sala de espera.JPG]
+
+
+Atenciosamente,
+
+Luiz Antônio M. Garcia
+Tribunal Regional do Trabalho da 4ª Região
+SETIC - Divisão de Microinformática
+luiz.garcia@trt4.jus.br
+INC-1582
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","=?UTF-8?Q?=5BSeveridade=3A_D=C3=BAvida=5D_Participante_n=C3=A3o_apareceu_no_?=
+	=?UTF-8?Q?relat=C3=B3rio_da_sala_de_espera?=",Luiz Antonio Marques Garcia <luiz.garcia@trt4.jus.br>
+7,190a31fef49bfbf6,1909e2b1c4850acb,"Certo, Giacomel. Considerando que já há controles que atendem às recomendações do item 3 e que as limitações de força de trabalho da equipe impossibilitam a adoção das recomendações do item 2 neste","Certo, Giacomel.
+
+Considerando que já há controles que atendem às recomendações do item 3 e
+que as limitações de força de trabalho da equipe impossibilitam a adoção
+das recomendações do item 2 neste momento, não vejo problemas adicionais em
+realizar a liberação do acesso ao script às equipes informadas.
+
+Atte,
+*Lucas Pozatti*
+___________________________________________________
+ Coord. de Segurança da Informação e Proteção de Dados
+ Secretaria de Tecnologia da Informação e Comunicações
+ Tribunal Regional do Trabalho da 4ª Região
+ (51) 3255-2784 / 2677
+___________________________________________________
+Em qui., 11 de jul. de 2024 às 15:41, Felipe dos Santos Giacomel <
+felipe.giacomel@trt4.jus.br> escreveu:
+
+> Boa tarde, Lucas.
+>
+> Obrigado pelo retorno. Se me permite, vou fazer considerações sobre as
+> tuas considerações:
+>
+> *1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é
+> possível cadastrar mais de um celular para utilização do MFA, certo? Uma
+> alternativa seria o cadastro do celular do ""substituto"" ou da pessoa que
+> faz o acesso à caixa setorial. Outra possibilidade, que é uma questão mais
+> procedimental, é o uso do acesso delegado, que recai sobre o MFA da conta
+> pessoal, para a qual foi delegado o acesso à caixa setorial. Entretanto,
+> ambas as alternativas não invalidam a proposta do uso dos códigos
+> alternativos. Porém, recomendamos fortemente que sejam avaliadas as
+> questões elencadas a seguir.*
+>
+>
+> Sim, nossa diretiva vai ao encontro do que foi apontado por ti (cadastrar
+> mais de um celular ou delegar o acesso à conta). Contudo, para ativar essas
+> formas de acesso, a pessoa precisa ter um acesso inicial à sua conta. Nossa
+> rotina para a DICS será no sentido de usar o código alternativo apenas para
+> permitir o logon da pessoa na conta, instruindo depois a ativar uma dessas
+> formas de autenticação mencionadas.
+>
+> *2) Sobre a questão do portalsm: ele está rodando no markvision, que é
+>> aquele servidor que foi afetado pelo incidente, e que utiliza o Windows
+>> Server 2012 R2, sistema operacional que está sem suporte da Microsoft. Além
+>> disso, o próprio portal utiliza HTTP (conforme imagem abaixo), e não HTTPS,
+>> de forma que todas as informações trafegam sem qualquer tipo de
+>> criptografia. A recomendação é para que: a) seja implementado https no
+>> portalsm; b) conforme havia sido combinado no fim do ano passado, após o
+>> incidente, o markvision deve descontinuado e as funcionalidades migradas
+>> para o novo servidor (curupira, correto?);*
+>
+>
+> O Éder está trabalhando na migração do nosso Portal do Markvision para o
+> Curupira, para atender a todos os requisitos de segurança. Infelizmente
+> recebemos essa resolução do CNJ para ativar o MFA para todos até o dia
+> 25/07, então tivemos que colocar a carroça na frente dos bois. Concordo que
+> o ideal seria migrar o servidor antes, mas isso não será possível devido ao
+> prazo que temos.
+>
+> *3) Sobre o sistema de scripts: seria ideal ter separação de papéis.
+>> Aqueles que resetam a senha (password) da conta não poderiam ter acesso aos
+>> códigos de backup e vice-versa. Ademais, sugerimos que algum nível de
+>> auditoria (log) é seja implementado, para casos em que ocorra algum
+>> incidente, sabendo quem gerou os códigos, quando, etc. *
+>
+>
+> No PortalSM nós conseguimos autorizar os scripts por grupo do AD, então
+> essa separação existe. Ele também mantém um log de qual usuário executou
+> qual script e com quais parâmetros, então esse controle também temos.
+>
+>
+> Atenciosamente,
+>
+> Felipe Giacomel
+> Divisão de Microinformática
+> TRT4 - Secretaria de Tecnologia da Informação e Comunicações
+>
+>
+> Em qui., 11 de jul. de 2024 às 15:22, SETIC - Coord de Seguranca da
+> Informacao e Protecao de Dados  escreveu:
+>
+>> Boa tarde Giacomel,
+>>
+>> Seguem algumas considerações:
+>>
+>> 1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é
+>> possível cadastrar mais de um celular para utilização do MFA, certo? Uma
+>> alternativa seria o cadastro do celular do ""substituto"" ou da pessoa que
+>> faz o acesso à caixa setorial. Outra possibilidade, que é uma questão mais
+>> procedimental, é o uso do acesso delegado, que recai sobre o MFA da conta
+>> pessoal, para a qual foi delegado o acesso à caixa setorial. Entretanto,
+>> ambas as alternativas não invalidam a proposta do uso dos códigos
+>> alternativos. Porém, recomendamos fortemente que sejam avaliadas as
+>> questões elencadas a seguir.
+>>
+>> 2) Sobre a questão do portalsm: ele está rodando no markvision, que é
+>> aquele servidor que foi afetado pelo incidente, e que utiliza o Windows
+>> Server 2012 R2, sistema operacional que está sem suporte da Microsoft. Além
+>> disso, o próprio portal utiliza HTTP (conforme imagem abaixo), e não HTTPS,
+>> de forma que todas as informações trafegam sem qualquer tipo de
+>> criptografia. A recomendação é para que: a) seja implementado https no
+>> portalsm; b) conforme havia sido combinado no fim do ano passado, após o
+>> incidente, o markvision deve descontinuado e as funcionalidades migradas
+>> para o novo servidor (curupira, correto?);
+>>
+>> [image: image.png]
+>>
+>> 3) Sobre o sistema de scripts: seria ideal ter separação de papéis.
+>> Aqueles que resetam a senha (password) da conta não poderiam ter acesso aos
+>> códigos de backup e vice-versa. Ademais, sugerimos que algum nível de
+>> auditoria (log) é seja implementado, para casos em que ocorra algum
+>> incidente, sabendo quem gerou os códigos, quando, etc.
+>>
+>> Atte,
+>> *Lucas Pozatti*
+>> ___________________________________________________
+>>  Coord. de Segurança da Informação e Proteção de Dados
+>>  Secretaria de Tecnologia da Informação e Comunicações
+>>  Tribunal Regional do Trabalho da 4ª Região
+>>  (51) 3255-2784 / 2677
+>> ___________________________________________________
+>>
+>> Em qua., 10 de jul. de 2024 às 16:42, Felipe dos Santos Giacomel <
+>> felipe.giacomel@trt4.jus.br> escreveu:
+>>
+>>> Prezados do CSIPD, boa tarde.
+>>>
+>>> Após o início da iniciativa da SETIC promovendo a migração das contas
+>>> Google para MFA, já estamos com praticamente metade de nossas contas já
+>>> migradas.
+>>>
+>>> Nesse cenário, têm chegado para nós, com relativa frequência, chamados
+>>> de pessoas que não conseguem mais acessar suas contas com MFA ativado. Os
+>>> motivos são os mais variados:
+>>>
+>>>    - O substituto quer acessar uma conta setorial mas o titular, que
+>>>    está de férias, cadastrou o MFA apenas no celular dele;
+>>>    - A pessoa trocou de senha e, por algum motivo que não conseguimos
+>>>    identificar ainda, o Google diz que não é possível verificar que a conta
+>>>    pertence a ela;
+>>>    - A pessoa trocou de número e não consegue mais receber o SMS;
+>>>    - etc.
+>>>
+>>> Quando estivermos com a totalidade das contas migradas, a tendência é o
+>>> número de chamados desse tipo aumentar. Por isso, gostaríamos de fornecer
+>>> para o primeiro nível do atendimento uma ferramenta para poder tratar eles
+>>> sem precisarem repassá-los para o segundo nível. A melhor alternativa que
+>>> encontramos para isso foi o uso dos códigos alternativos de logon
+>>> 
+>>> .
+>>>
+>>> Desenvolvemos um script onde é possível o atendente gerar até 10 códigos
+>>> alternativos da conta desejada e passar um deles para o usuário informar
+>>> como um segundo fator e prosseguir com seu logon. O script roda em nosso
+>>> Portal com um usuário próprio e usa o GAM, não sendo necessário dar
+>>> qualquer permissão para o atendimento no painel de administração do Google.
+>>>
+>>> Saliento que só de posse desses códigos não é possível o atendente
+>>> acessar uma conta de terceiros sem autorização, pois para isso é necessário
+>>> também ter a senha da conta.
+>>>
+>>> [image: image.png]
+>>>
+>>> A nossa ideia é passar esse script para DICS e G4F rodarem ele quando
+>>> precisarem. Vocês vêem algum impeditivo para o atendimento terceirizado ou
+>>> até mesmo a DICS terem acesso a esse script?
+>>>
+>>>
+>>>
+>>> Atenciosamente,
+>>>
+>>> Felipe Giacomel
+>>> Divisão de Microinformática
+>>> TRT4 - Secretaria de Tecnologia da Informação e Comunicações
+>>>
+>>
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","=?UTF-8?Q?Re=3A_D=C3=BAvida_=2D_Libera=C3=A7=C3=A3o_de_funcionalidade_para_DIC?=
+	=?UTF-8?Q?S=2FG4F?=",SETIC - Coord de Seguranca da Informacao e Protecao de Dados <setic.csipd@trt4.jus.br>
+8,190a319fa11badb9,1909e2b1c4850acb,"Boa tarde, Lucas. Obrigado pelo retorno. Se me permite, vou fazer considerações sobre as tuas considerações: 1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é possível cadastrar mais","Boa tarde, Lucas.
+
+Obrigado pelo retorno. Se me permite, vou fazer considerações sobre as tuas
+considerações:
+
+*1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é
+possível cadastrar mais de um celular para utilização do MFA, certo? Uma
+alternativa seria o cadastro do celular do ""substituto"" ou da pessoa que
+faz o acesso à caixa setorial. Outra possibilidade, que é uma questão mais
+procedimental, é o uso do acesso delegado, que recai sobre o MFA da conta
+pessoal, para a qual foi delegado o acesso à caixa setorial. Entretanto,
+ambas as alternativas não invalidam a proposta do uso dos códigos
+alternativos. Porém, recomendamos fortemente que sejam avaliadas as
+questões elencadas a seguir.*
+
+
+Sim, nossa diretiva vai ao encontro do que foi apontado por ti (cadastrar
+mais de um celular ou delegar o acesso à conta). Contudo, para ativar essas
+formas de acesso, a pessoa precisa ter um acesso inicial à sua conta. Nossa
+rotina para a DICS será no sentido de usar o código alternativo apenas para
+permitir o logon da pessoa na conta, instruindo depois a ativar uma dessas
+formas de autenticação mencionadas.
+
+*2) Sobre a questão do portalsm: ele está rodando no markvision, que é
+> aquele servidor que foi afetado pelo incidente, e que utiliza o Windows
+> Server 2012 R2, sistema operacional que está sem suporte da Microsoft. Além
+> disso, o próprio portal utiliza HTTP (conforme imagem abaixo), e não HTTPS,
+> de forma que todas as informações trafegam sem qualquer tipo de
+> criptografia. A recomendação é para que: a) seja implementado https no
+> portalsm; b) conforme havia sido combinado no fim do ano passado, após o
+> incidente, o markvision deve descontinuado e as funcionalidades migradas
+> para o novo servidor (curupira, correto?);*
+
+
+O Éder está trabalhando na migração do nosso Portal do Markvision para o
+Curupira, para atender a todos os requisitos de segurança. Infelizmente
+recebemos essa resolução do CNJ para ativar o MFA para todos até o dia
+25/07, então tivemos que colocar a carroça na frente dos bois. Concordo que
+o ideal seria migrar o servidor antes, mas isso não será possível devido ao
+prazo que temos.
+
+*3) Sobre o sistema de scripts: seria ideal ter separação de papéis.
+> Aqueles que resetam a senha (password) da conta não poderiam ter acesso aos
+> códigos de backup e vice-versa. Ademais, sugerimos que algum nível de
+> auditoria (log) é seja implementado, para casos em que ocorra algum
+> incidente, sabendo quem gerou os códigos, quando, etc. *
+
+
+No PortalSM nós conseguimos autorizar os scripts por grupo do AD, então
+essa separação existe. Ele também mantém um log de qual usuário executou
+qual script e com quais parâmetros, então esse controle também temos.
+
+
+Atenciosamente,
+
+Felipe Giacomel
+Divisão de Microinformática
+TRT4 - Secretaria de Tecnologia da Informação e Comunicações
+
+
+Em qui., 11 de jul. de 2024 às 15:22, SETIC - Coord de Seguranca da
+Informacao e Protecao de Dados  escreveu:
+
+> Boa tarde Giacomel,
+>
+> Seguem algumas considerações:
+>
+> 1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é
+> possível cadastrar mais de um celular para utilização do MFA, certo? Uma
+> alternativa seria o cadastro do celular do ""substituto"" ou da pessoa que
+> faz o acesso à caixa setorial. Outra possibilidade, que é uma questão mais
+> procedimental, é o uso do acesso delegado, que recai sobre o MFA da conta
+> pessoal, para a qual foi delegado o acesso à caixa setorial. Entretanto,
+> ambas as alternativas não invalidam a proposta do uso dos códigos
+> alternativos. Porém, recomendamos fortemente que sejam avaliadas as
+> questões elencadas a seguir.
+>
+> 2) Sobre a questão do portalsm: ele está rodando no markvision, que é
+> aquele servidor que foi afetado pelo incidente, e que utiliza o Windows
+> Server 2012 R2, sistema operacional que está sem suporte da Microsoft. Além
+> disso, o próprio portal utiliza HTTP (conforme imagem abaixo), e não HTTPS,
+> de forma que todas as informações trafegam sem qualquer tipo de
+> criptografia. A recomendação é para que: a) seja implementado https no
+> portalsm; b) conforme havia sido combinado no fim do ano passado, após o
+> incidente, o markvision deve descontinuado e as funcionalidades migradas
+> para o novo servidor (curupira, correto?);
+>
+> [image: image.png]
+>
+> 3) Sobre o sistema de scripts: seria ideal ter separação de papéis.
+> Aqueles que resetam a senha (password) da conta não poderiam ter acesso aos
+> códigos de backup e vice-versa. Ademais, sugerimos que algum nível de
+> auditoria (log) é seja implementado, para casos em que ocorra algum
+> incidente, sabendo quem gerou os códigos, quando, etc.
+>
+> Atte,
+> *Lucas Pozatti*
+> ___________________________________________________
+>  Coord. de Segurança da Informação e Proteção de Dados
+>  Secretaria de Tecnologia da Informação e Comunicações
+>  Tribunal Regional do Trabalho da 4ª Região
+>  (51) 3255-2784 / 2677
+> ___________________________________________________
+>
+> Em qua., 10 de jul. de 2024 às 16:42, Felipe dos Santos Giacomel <
+> felipe.giacomel@trt4.jus.br> escreveu:
+>
+>> Prezados do CSIPD, boa tarde.
+>>
+>> Após o início da iniciativa da SETIC promovendo a migração das contas
+>> Google para MFA, já estamos com praticamente metade de nossas contas já
+>> migradas.
+>>
+>> Nesse cenário, têm chegado para nós, com relativa frequência, chamados de
+>> pessoas que não conseguem mais acessar suas contas com MFA ativado. Os
+>> motivos são os mais variados:
+>>
+>>    - O substituto quer acessar uma conta setorial mas o titular, que
+>>    está de férias, cadastrou o MFA apenas no celular dele;
+>>    - A pessoa trocou de senha e, por algum motivo que não conseguimos
+>>    identificar ainda, o Google diz que não é possível verificar que a conta
+>>    pertence a ela;
+>>    - A pessoa trocou de número e não consegue mais receber o SMS;
+>>    - etc.
+>>
+>> Quando estivermos com a totalidade das contas migradas, a tendência é o
+>> número de chamados desse tipo aumentar. Por isso, gostaríamos de fornecer
+>> para o primeiro nível do atendimento uma ferramenta para poder tratar eles
+>> sem precisarem repassá-los para o segundo nível. A melhor alternativa que
+>> encontramos para isso foi o uso dos códigos alternativos de logon
+>> 
+>> .
+>>
+>> Desenvolvemos um script onde é possível o atendente gerar até 10 códigos
+>> alternativos da conta desejada e passar um deles para o usuário informar
+>> como um segundo fator e prosseguir com seu logon. O script roda em nosso
+>> Portal com um usuário próprio e usa o GAM, não sendo necessário dar
+>> qualquer permissão para o atendimento no painel de administração do Google.
+>>
+>> Saliento que só de posse desses códigos não é possível o atendente
+>> acessar uma conta de terceiros sem autorização, pois para isso é necessário
+>> também ter a senha da conta.
+>>
+>> [image: image.png]
+>>
+>> A nossa ideia é passar esse script para DICS e G4F rodarem ele quando
+>> precisarem. Vocês vêem algum impeditivo para o atendimento terceirizado ou
+>> até mesmo a DICS terem acesso a esse script?
+>>
+>>
+>>
+>> Atenciosamente,
+>>
+>> Felipe Giacomel
+>> Divisão de Microinformática
+>> TRT4 - Secretaria de Tecnologia da Informação e Comunicações
+>>
+>
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","=?UTF-8?Q?Re=3A_D=C3=BAvida_=2D_Libera=C3=A7=C3=A3o_de_funcionalidade_para_DIC?=
+	=?UTF-8?Q?S=2FG4F?=",Felipe dos Santos Giacomel <felipe.giacomel@trt4.jus.br>
+9,190a308aea9d93ba,1909e2b1c4850acb,"Boa tarde Giacomel, Seguem algumas considerações: 1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é possível cadastrar mais de um celular para utilização do MFA, certo? Uma alternativa","Boa tarde Giacomel,
+
+Seguem algumas considerações:
+
+1) Sobre a questão do acesso à conta setorial: pelo que sabemos, é possível
+cadastrar mais de um celular para utilização do MFA, certo? Uma alternativa
+seria o cadastro do celular do ""substituto"" ou da pessoa que faz o acesso à
+caixa setorial. Outra possibilidade, que é uma questão mais procedimental,
+é o uso do acesso delegado, que recai sobre o MFA da conta pessoal, para a
+qual foi delegado o acesso à caixa setorial. Entretanto, ambas as
+alternativas não invalidam a proposta do uso dos códigos alternativos.
+Porém, recomendamos fortemente que sejam avaliadas as questões elencadas a
+seguir.
+
+2) Sobre a questão do portalsm: ele está rodando no markvision, que é
+aquele servidor que foi afetado pelo incidente, e que utiliza o Windows
+Server 2012 R2, sistema operacional que está sem suporte da Microsoft. Além
+disso, o próprio portal utiliza HTTP (conforme imagem abaixo), e não HTTPS,
+de forma que todas as informações trafegam sem qualquer tipo de
+criptografia. A recomendação é para que: a) seja implementado https no
+portalsm; b) conforme havia sido combinado no fim do ano passado, após o
+incidente, o markvision deve descontinuado e as funcionalidades migradas
+para o novo servidor (curupira, correto?);
+
+[image: image.png]
+
+3) Sobre o sistema de scripts: seria ideal ter separação de papéis. Aqueles
+que resetam a senha (password) da conta não poderiam ter acesso aos códigos
+de backup e vice-versa. Ademais, sugerimos que algum nível de auditoria
+(log) é seja implementado, para casos em que ocorra algum incidente,
+sabendo quem gerou os códigos, quando, etc.
+
+Atte,
+*Lucas Pozatti*
+___________________________________________________
+ Coord. de Segurança da Informação e Proteção de Dados
+ Secretaria de Tecnologia da Informação e Comunicações
+ Tribunal Regional do Trabalho da 4ª Região
+ (51) 3255-2784 / 2677
+___________________________________________________
+
+Em qua., 10 de jul. de 2024 às 16:42, Felipe dos Santos Giacomel <
+felipe.giacomel@trt4.jus.br> escreveu:
+
+> Prezados do CSIPD, boa tarde.
+>
+> Após o início da iniciativa da SETIC promovendo a migração das contas
+> Google para MFA, já estamos com praticamente metade de nossas contas já
+> migradas.
+>
+> Nesse cenário, têm chegado para nós, com relativa frequência, chamados de
+> pessoas que não conseguem mais acessar suas contas com MFA ativado. Os
+> motivos são os mais variados:
+>
+>    - O substituto quer acessar uma conta setorial mas o titular, que está
+>    de férias, cadastrou o MFA apenas no celular dele;
+>    - A pessoa trocou de senha e, por algum motivo que não conseguimos
+>    identificar ainda, o Google diz que não é possível verificar que a conta
+>    pertence a ela;
+>    - A pessoa trocou de número e não consegue mais receber o SMS;
+>    - etc.
+>
+> Quando estivermos com a totalidade das contas migradas, a tendência é o
+> número de chamados desse tipo aumentar. Por isso, gostaríamos de fornecer
+> para o primeiro nível do atendimento uma ferramenta para poder tratar eles
+> sem precisarem repassá-los para o segundo nível. A melhor alternativa que
+> encontramos para isso foi o uso dos códigos alternativos de logon
+> 
+> .
+>
+> Desenvolvemos um script onde é possível o atendente gerar até 10 códigos
+> alternativos da conta desejada e passar um deles para o usuário informar
+> como um segundo fator e prosseguir com seu logon. O script roda em nosso
+> Portal com um usuário próprio e usa o GAM, não sendo necessário dar
+> qualquer permissão para o atendimento no painel de administração do Google.
+>
+> Saliento que só de posse desses códigos não é possível o atendente acessar
+> uma conta de terceiros sem autorização, pois para isso é necessário também
+> ter a senha da conta.
+>
+> [image: image.png]
+>
+> A nossa ideia é passar esse script para DICS e G4F rodarem ele quando
+> precisarem. Vocês vêem algum impeditivo para o atendimento terceirizado ou
+> até mesmo a DICS terem acesso a esse script?
+>
+>
+>
+> Atenciosamente,
+>
+> Felipe Giacomel
+> Divisão de Microinformática
+> TRT4 - Secretaria de Tecnologia da Informação e Comunicações
+>
+
+-- 
+You received this message because you are subscribed to the Google Groups ""SETIC-DIM- Divisao de Microinformatica"" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to setic.dim-lista+unsubscribe@trt4.jus.br.
+","=?UTF-8?Q?Re=3A_D=C3=BAvida_=2D_Libera=C3=A7=C3=A3o_de_funcionalidade_para_DIC?=
+	=?UTF-8?Q?S=2FG4F?=",SETIC - Coord de Seguranca da Informacao e Protecao de Dados <setic.csipd@trt4.jus.br>

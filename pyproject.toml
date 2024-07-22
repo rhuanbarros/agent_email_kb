@@ -23,6 +23,7 @@ python-dotenv = "^1.0.1"
 g4f = "^0.3.2.2"
 langchain-g4f = {git = "https://github.com/MIDORIBIN/langchain-gpt4free.git"}
 curl-cffi = "^0.7.1"
+transformers = "^4.42.4"
 
 
 [build-system]

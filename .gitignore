@@ -162,3 +162,12 @@ cython_debug/
 
 client_secret*
 token.json
+lab/emails.csv
+lab/emails2.csv
+lab/emails3.csv
+lab/thread_18cff0b946f3a4d4_cleaned_tudo.csv
+lab/thread_18cff0b946f3a4d4_cleaned.csv
+lab/thread_18cff0b946f3a4d4.csv
+lab/thread.csv
+lab/token.json
+lab/client_secret_725666968119-4saglerh38du5sngfrilihcm9pc7nfk6.apps.googleusercontent.com.json
